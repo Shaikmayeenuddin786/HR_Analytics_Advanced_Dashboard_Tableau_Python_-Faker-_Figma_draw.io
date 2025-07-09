@@ -89,13 +89,13 @@ The HR dashboard presents a clear, visual breakdown of workforce dynamics across
 * **Total Employees**: Out of 8,950 employees, 7,984 are currently active, and 966 have been terminated.
 * **Hiring & Termination Trends**: Line charts show hiring and termination fluctuations over time. Notably, hiring appears cyclical, while terminations have spiked in recent periods—signaling possible policy or organizational shifts.
 * **Department Distribution**:
-![image](https://github.com/user-attachments/assets/a5549aad-e8e3-4d66-9b8c-209f642e182e)
+    ![image](https://github.com/user-attachments/assets/a5549aad-e8e3-4d66-9b8c-209f642e182e)
 
 
   * **Operations** leads in headcount (2,429 active, 289 terminated), followed by **Sales** and **Customer Service**.
   * The departmental ranking bar chart clearly highlights team sizes and attrition side-by-side.
- 
-   ![image](https://github.com/user-attachments/assets/6f53437d-9751-431a-a984-088ec0547d2b)
+    ![image](https://github.com/user-attachments/assets/6f53437d-9751-431a-a984-088ec0547d2b)
+
 
 * **Geographic Spread**:
 
@@ -122,6 +122,7 @@ The HR dashboard presents a clear, visual breakdown of workforce dynamics across
   * **Bachelor’s degree** holders show the highest concentration in the **‘Good’** performance category (50%).
   * **High school graduates** are more likely to fall into **‘Needs Improvement’**—a flag for potential training needs.
     ![image](https://github.com/user-attachments/assets/c3a7defe-c777-4de4-aac0-516ed234d813)
+    
     ![image](https://github.com/user-attachments/assets/c31f483d-cac8-43ee-a0c2-ec32c6375016)
 
 
@@ -135,12 +136,13 @@ The HR dashboard presents a clear, visual breakdown of workforce dynamics across
   * At the **Bachelor level**, males earn **74K** while females earn **66K**, indicating a pay gap.
   * Conversely, at the **PhD level**, females earn more (93K vs 80K), a reverse trend worth deeper exploration.
   * Salary increases progressively with education level across both genders.
+  * 
 * **Age vs Salary (Scatter Plot)**:
 
   * **Finance Managers** and **IT Managers** earn the highest salaries and are generally older.
   * **HR Managers**, despite being younger, command relatively high salaries—an anomaly suggesting specialized skill or strategic importance.
   * Roles like **HR Assistant** and **Sales Specialist** cluster at lower salary bands, aligned with expectations.
-  ![image](https://github.com/user-attachments/assets/492d88d8-5359-4bef-b15f-b3e7b8d9e6cb)
+    ![image](https://github.com/user-attachments/assets/492d88d8-5359-4bef-b15f-b3e7b8d9e6cb)
 
 
 ---
