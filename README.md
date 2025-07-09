@@ -88,8 +88,10 @@ The HR dashboard presents a clear, visual breakdown of workforce dynamics across
 
 * **Total Employees**: Out of 8,950 employees, 7,984 are currently active, and 966 have been terminated.
 * **Hiring & Termination Trends**: Line charts show hiring and termination fluctuations over time. Notably, hiring appears cyclical, while terminations have spiked in recent periods—signaling possible policy or organizational shifts.
+
 * **Department Distribution**:
-    ![image](https://github.com/user-attachments/assets/a5549aad-e8e3-4d66-9b8c-209f642e182e)
+
+  ![image](https://github.com/user-attachments/assets/a5549aad-e8e3-4d66-9b8c-209f642e182e)
 
 
   * **Operations** leads in headcount (2,429 active, 289 terminated), followed by **Sales** and **Customer Service**.
