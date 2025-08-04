@@ -212,9 +212,14 @@ Based on the visual insights from the dashboard, here are strategic, data-driven
 
 
 
-## **Author:**
+##  Author & Acknowledgment
  Shaik Mayeenuddin
- Business Analyst | Data Analytics | AI & ML Student
+ Business Analyst | Data & Process Optimization
+ Pursuing a Master’s in Data Science (AI & ML) Student
 🔗 https://www.linkedin.com/in/shaikmayeenuddin
+
+ This project is built upon the foundational work by **Baraa Khatib** (Data with Baraa). 
+ I am grateful for the analytical insights shared through their tutorials
+ credit:LinkedIn – Baraa Khatib](https://www.linkedin.com/in/baraa-khatib-salkini‑845b1b55/
 
 
