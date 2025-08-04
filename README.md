@@ -218,6 +218,9 @@ Based on the visual insights from the dashboard, here are strategic, data-driven
  Pursuing a Master’s in Data Science (AI & ML) Student
 🔗 https://www.linkedin.com/in/shaikmayeenuddin
 
+This project demonstrates my complete end-to-end capability—from data ingestion and cleaning, through ETL pipelines, modeling, and dashboarding, 
+to actionable business insights. I architected, modeled, validated, visualized, and strategically interpreted the data throughout.
+
  This project is built upon the foundational work by **Baraa Khatib** (Data with Baraa). 
  I am grateful for the analytical insights shared through their tutorials
  credit:LinkedIn – Baraa Khatib](https://www.linkedin.com/in/baraa-khatib-salkini‑845b1b55/
