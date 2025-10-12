@@ -64,9 +64,9 @@ The dashboard is **fully interactive**, filterable, and professionally designed 
 
 ---
 
-#  Insights Deep Dive (Revised from Tableau Dashboard)
+# Insights Deep Dive
 
-### key HR metrics. Below are deep insights derived from each dashboard section:
+## This deep dive equips HR and leadership teams with actionable insights derived from real data patterns to drive strategic interventions in talent retention, pay equity, and performance alignment.
 
 - **Overview Metrics:** Active employees (7,984), hired (8,950), terminated (966); trend line shows hiring peaks and drops.  
 - **Departments Bar:** Operations tops at 2,429 active + 289 terminated; Sales next at 1,434 + 129.  
@@ -78,29 +78,27 @@ The dashboard is **fully interactive**, filterable, and professionally designed 
 - **Location Map:** Bubbles in NY, MI, IL; bars for HQ/branch counts.  
 - **Details Table:** Lists employees by ID, name, role, location, salary, status, tenure (e.g., Samuel Burgess, 7 years).
 
-
----
-
-* **Department Distribution**:
+## **Department Distribution**:
 
   ![image](https://github.com/user-attachments/assets/a5549aad-e8e3-4d66-9b8c-209f642e182e)
 
 
   * **Operations** leads in headcount (2,429 active, 289 terminated), followed by **Sales** and **Customer Service**.
   * The departmental ranking bar chart clearly highlights team sizes and attrition side-by-side.
-    ![image](https://github.com/user-attachments/assets/6f53437d-9751-431a-a984-088ec0547d2b)
+
+  ![image](https://github.com/user-attachments/assets/6f53437d-9751-431a-a984-088ec0547d2b)
 
 
-* **Geographic Spread**:
+## **Geographic Spread**:
 
   * **New York (HQ)** houses \~70% of the workforce.
   * Other branches across Michigan, Illinois, Pennsylvania, and Virginia contribute \~30%.
   * A U.S. map visually clusters staff density across states, with cities like Philadelphia and Chicago also highlighted.
-    ![image](https://github.com/user-attachments/assets/9832d154-1d21-4493-a867-59801cf46b9b)
 
----
+  ![image](https://github.com/user-attachments/assets/9832d154-1d21-4493-a867-59801cf46b9b)
 
-###  **Demographics Section**
+
+##  **Demographics Section**
 
 * **Gender Balance**: Males represent **54%** of the workforce, females **46%**, shown via dual donut charts.
 * **Education vs Age Correlation**:
@@ -108,9 +106,10 @@ The dashboard is **fully interactive**, filterable, and professionally designed 
   * The majority of employees fall within the **35–44 age bracket** and primarily hold **Bachelor's degrees**.
   * Age groups are evenly distributed above age 25, indicating a mature workforce.
  
-    ![image](https://github.com/user-attachments/assets/76859c2b-3eaa-4766-81e6-f9dc7205e6ee)
+  ![image](https://github.com/user-attachments/assets/76859c2b-3eaa-4766-81e6-f9dc7205e6ee)
 
-* **Education vs Performance**:
+
+## **Education vs Performance**:
 
   * **PhD holders** dominate the **'Excellent'** rating category.
   * **Bachelor’s degree** holders show the highest concentration in the **‘Good’** performance category (50%).
@@ -120,45 +119,27 @@ The dashboard is **fully interactive**, filterable, and professionally designed 
     ![image](https://github.com/user-attachments/assets/c31f483d-cac8-43ee-a0c2-ec32c6375016)
 
 
-
----
-
-###  **Income Analysis Section**
+##  **Income Analysis Section**
 
 * **Gender Pay Gap by Education**:
 
   * At the **Bachelor level**, males earn **74K** while females earn **66K**, indicating a pay gap.
   * Conversely, at the **PhD level**, females earn more (93K vs 80K), a reverse trend worth deeper exploration.
   * Salary increases progressively with education level across both genders.
-  * 
+   
 * **Age vs Salary (Scatter Plot)**:
 
   * **Finance Managers** and **IT Managers** earn the highest salaries and are generally older.
   * **HR Managers**, despite being younger, command relatively high salaries—an anomaly suggesting specialized skill or strategic importance.
   * Roles like **HR Assistant** and **Sales Specialist** cluster at lower salary bands, aligned with expectations.
-    ![image](https://github.com/user-attachments/assets/492d88d8-5359-4bef-b15f-b3e7b8d9e6cb)
+  ![image](https://github.com/user-attachments/assets/492d88d8-5359-4bef-b15f-b3e7b8d9e6cb)
 
 
 ---
-
-This deep dive empowers HR and leadership teams to make strategic interventions in talent retention, pay equity, and performance alignment based on real patterns from the data.
-
----
-
----
-
-## 5. **Recommendations**
-
-Based on the visual insights from the dashboard, here are strategic, data-driven recommendations:
-
-
----
-
-
 # Offered Recommended Solutions to HR Manager / HR Director and Chief People Officer (CPO)
 
 
-## 1. **Insight Summary: Strengthen Workforce Retention**
+### 1. **Insight Summary: Strengthen Workforce Retention**
 
 - **Observation**: Departments like **Operations** and **Sales** show **high attrition** relative to others, as indicated by termination volumes in the bar chart.
 - **Implication**: Sustained attrition in these business-critical areas could impact delivery timelines, customer experience, and institutional knowledge.
@@ -171,7 +152,7 @@ Based on the visual insights from the dashboard, here are strategic, data-driven
 
 ---
 
-## 2. **Improve Gender Pay Equity**
+### 2. **Improve Gender Pay Equity**
 
 * The **Education & Gender** chart reveals a **gender-based pay gap** at the Bachelor's level (Male avg: 74K vs Female: 66K).
 * Conduct a compensation audit to address discrepancies and ensure equitable salary bands across all levels.
@@ -179,27 +160,27 @@ Based on the visual insights from the dashboard, here are strategic, data-driven
   ![image](https://github.com/user-attachments/assets/64998d31-7a2e-45ea-8d0b-aa3b77769cf3)
 
 
-## 3. **Capitalize on HQ Talent Strength**
+### 3. **Capitalize on HQ Talent Strength**
 
 * With **70% of employees located at HQ (New York)**, the talent pool is centralized.
 * Consider **talent decentralization** or **hybrid staffing models** to expand reach and reduce HQ saturation risks.
 
-## 4. **Targeted Upskilling Based on Performance**
+### 4. **Targeted Upskilling Based on Performance**
 
 * The **Education & Performance** heatmap shows employees with **lower education levels** (e.g., High School) are more likely to fall into **‘Needs Improvement’** ratings.
 * Implement **role-specific learning paths** to upskill this segment and boost overall performance.
 
-## 5. **Recognize High-Performing Segments**
+### 5. **Recognize High-Performing Segments**
 
 * **PhD holders** show high performance and draw higher salaries—particularly female employees.
 * Invest in **leadership development** for this high-performing segment to retain and promote them.
 
-## 6. **Align Compensation with Role and Age Trends**
+### 6. **Align Compensation with Role and Age Trends**
 
 * The **Age vs Salary** scatter plot shows some younger employees (e.g., HR Managers) drawing higher salaries.
 * Review compensation benchmarking to ensure it aligns with both **role seniority** and **market expectations**.
 
-## 7. **Departmental Capacity Planning**
+### 7. **Departmental Capacity Planning**
 
 * **Operations, Sales, and Customer Service** have the largest employee volumes.
 * HR should evaluate whether staffing levels match business needs and redistribute where inefficiencies are identified.
@@ -208,7 +189,7 @@ Based on the visual insights from the dashboard, here are strategic, data-driven
 ---
 
 
-# Data Structure Overview
+# Data Structure Overview | Tools & Technologies
 
 The dataset used was synthetically generated using Python’s Faker library to simulate realistic HR records. It consists of a **single CSV file** with fields including:
 
@@ -226,9 +207,6 @@ Click on the chart to filter the entire dashboard.
 Click the switch icon on the top right corner to open the filter menu.
 
 
----
-
-
 ##  Tools & Technologies
 
 | Tool      | Purpose                                |
@@ -244,7 +222,7 @@ Click the switch icon on the top right corner to open the filter menu.
 
 ##  Author & Acknowledgment
  Shaik Mayeenuddin
- Business Analyst | Data & Process Optimization
+ Data Science & AI/ML Professional | Data & Process Optimization
  Pursuing a Master’s in Data Science (AI & ML) Student
 🔗 https://www.linkedin.com/in/shaikmayeenuddin
 
