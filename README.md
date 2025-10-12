@@ -1,4 +1,5 @@
-#  HR Analytics Advanced Dashboard
+# Analytics Advanced Dashboard | Tracking attrition, diversity, Gender Pay Gap and performance to inform HR strategy
+
 ![HR_Workforce_Dashboard_Advance_Tableau](https://github.com/user-attachments/assets/12f7cbc5-60b1-49be-bc3b-0e865edadac4)
 ![HR_Workforce_Dashboard_Shaik](https://github.com/user-attachments/assets/70b3dba6-6b12-4315-a773-fbc07e015ce6)
 ![image](https://github.com/user-attachments/assets/74501859-4530-4c23-b180-3986dbae842e)
@@ -10,39 +11,22 @@
 **Skill Areas**: Data Visualization, Dashboard Design, Data Preparation, Insight Communication
 
 ---
-##  Tools & Technologies
 
-| Tool      | Purpose                                |
-|-----------|----------------------------------------|
-| **Tableau** | Data visualization and dashboarding    |
-| **Python (Faker)** | Synthetic HR data generation         |
-| **Figma**   | Dashboard layout design (mockups)     |
-| **draw.io** | Container and layout planning          |
 
-## 1. Background and Overview
+# Project Overview
+
 
 This HR Dashboard project was created using **Tableau** to provide **strategic insights** into workforce data. The goal was to support HR leaders in **making data-driven decisions** by visualizing key aspects such as hiring trends, demographics, performance, and salary analysis. It simulates a **real-life enterprise setting** with end-to-end development including user requirement analysis, data modeling, advanced charting, and dashboard optimization.
 
 The project follows a **professional BI workflow**—starting from requirement gathering and mockup planning to final dashboard deployment. It integrates **15+ interactive visualizations** within a single Tableau dashboard designed with a **dark theme and a modern UI**.
 
 ---
-
-##  2. Data Structure Overview
-
-The dataset used was synthetically generated using Python’s Faker library to simulate realistic HR records. It consists of a **single CSV file** with fields including:
-
-* **Employee Details**: ID, Name, Gender, Education, Department, Job Title
-* **Employment History**: Hire Date, Termination Date
-* **Location**: State, City (with HQ marked as New York)
-* **Salary & Performance**: Monthly salary, Performance rating
-* **Derived Fields**: Age, Age Groups, Location Type (HQ vs Branch), Status (Active vs Terminated)
-
-These fields were cleaned, categorized (dimensions/measures), and formatted appropriately in Tableau to support advanced analysis.
+# Business Problem
+HR teams struggle with high turnover (966 terminated vs. 8,950 hired), uneven workforce distribution across departments and locations, and salary gaps by gender/education, making it hard to retain talent and plan hiring without clear patterns.
 
 
-Hover over the chart to see more information.
-Click on the chart to filter the entire dashboard.
-Click the switch icon on the top right corner to open the filter menu.
+# Objectives
+Provide a clear view of employee stats—hiring, terminations, demographics, salaries, and performance—to spot trends, address imbalances, and support better recruitment, retention, and diversity efforts.
 
 
 ---
@@ -162,10 +146,13 @@ Based on the visual insights from the dashboard, here are strategic, data-driven
 
 ---
 
-### 1. **Insight Summary: Strengthen Workforce Retention**
+
+# Offered Recommended Solutions to HR Manager / HR Director and Chief People Officer (CPO)
+
+
+## 1. **Insight Summary: Strengthen Workforce Retention**
 
 - **Observation**: Departments like **Operations** and **Sales** show **high attrition** relative to others, as indicated by termination volumes in the bar chart.
-  
 - **Implication**: Sustained attrition in these business-critical areas could impact delivery timelines, customer experience, and institutional knowledge.
 
 - **Suggested Actions**:
@@ -176,40 +163,75 @@ Based on the visual insights from the dashboard, here are strategic, data-driven
 
 ---
 
-### 2. **Improve Gender Pay Equity**
+## 2. **Improve Gender Pay Equity**
 
 * The **Education & Gender** chart reveals a **gender-based pay gap** at the Bachelor's level (Male avg: 74K vs Female: 66K).
 * Conduct a compensation audit to address discrepancies and ensure equitable salary bands across all levels.
+
   ![image](https://github.com/user-attachments/assets/64998d31-7a2e-45ea-8d0b-aa3b77769cf3)
 
 
-### 3. **Capitalize on HQ Talent Strength**
+## 3. **Capitalize on HQ Talent Strength**
 
 * With **70% of employees located at HQ (New York)**, the talent pool is centralized.
 * Consider **talent decentralization** or **hybrid staffing models** to expand reach and reduce HQ saturation risks.
 
-### 4. **Targeted Upskilling Based on Performance**
+## 4. **Targeted Upskilling Based on Performance**
 
 * The **Education & Performance** heatmap shows employees with **lower education levels** (e.g., High School) are more likely to fall into **‘Needs Improvement’** ratings.
 * Implement **role-specific learning paths** to upskill this segment and boost overall performance.
 
-### 5. **Recognize High-Performing Segments**
+## 5. **Recognize High-Performing Segments**
 
 * **PhD holders** show high performance and draw higher salaries—particularly female employees.
 * Invest in **leadership development** for this high-performing segment to retain and promote them.
 
-### 6. **Align Compensation with Role and Age Trends**
+## 6. **Align Compensation with Role and Age Trends**
 
 * The **Age vs Salary** scatter plot shows some younger employees (e.g., HR Managers) drawing higher salaries.
 * Review compensation benchmarking to ensure it aligns with both **role seniority** and **market expectations**.
 
-### 7. **Departmental Capacity Planning**
+## 7. **Departmental Capacity Planning**
 
 * **Operations, Sales, and Customer Service** have the largest employee volumes.
 * HR should evaluate whether staffing levels match business needs and redistribute where inefficiencies are identified.
 
 
+---
 
+
+# Data Structure Overview
+
+The dataset used was synthetically generated using Python’s Faker library to simulate realistic HR records. It consists of a **single CSV file** with fields including:
+
+* **Employee Details**: ID, Name, Gender, Education, Department, Job Title
+* **Employment History**: Hire Date, Termination Date
+* **Location**: State, City (with HQ marked as New York)
+* **Salary & Performance**: Monthly salary, Performance rating
+* **Derived Fields**: Age, Age Groups, Location Type (HQ vs Branch), Status (Active vs Terminated)
+
+These fields were cleaned, categorized (dimensions/measures), and formatted appropriately in Tableau to support advanced analysis.
+
+
+Hover over the chart to see more information.
+Click on the chart to filter the entire dashboard.
+Click the switch icon on the top right corner to open the filter menu.
+
+
+---
+
+
+##  Tools & Technologies
+
+| Tool      | Purpose                                |
+|-----------|----------------------------------------|
+| **Tableau** | Data visualization and dashboarding    |
+| **Python (Faker)** | Synthetic HR data generation         |
+| **Figma**   | Dashboard layout design (mockups)     |
+| **draw.io** | Container and layout planning          |
+
+
+---
 
 
 ##  Author & Acknowledgment
@@ -222,7 +244,7 @@ This project demonstrates my complete end-to-end capability—from data ingestio
 to actionable business insights. I architected, modeled, validated, visualized, and strategically interpreted the data throughout.
 
  This project is built upon the foundational work by **Baraa Khatib** (Data with Baraa). 
- I am grateful for the analytical insights shared through their tutorials
+ I am grateful for the analytical tutorials
  credit:LinkedIn – Baraa Khatib](https://www.linkedin.com/in/baraa-khatib-salkini‑845b1b55/
 
 
