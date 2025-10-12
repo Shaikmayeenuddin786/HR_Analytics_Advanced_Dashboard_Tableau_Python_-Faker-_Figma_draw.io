@@ -1,14 +1,17 @@
 # Analytics Advanced Dashboard | Tracking attrition, diversity, Gender Pay Gap and performance to inform HR strategy
 
-![HR_Workforce_Dashboard_Advance_Tableau](https://github.com/user-attachments/assets/12f7cbc5-60b1-49be-bc3b-0e865edadac4)
-![HR_Workforce_Dashboard_Shaik](https://github.com/user-attachments/assets/70b3dba6-6b12-4315-a773-fbc07e015ce6)
-![image](https://github.com/user-attachments/assets/74501859-4530-4c23-b180-3986dbae842e)
-
-
 
 **Theme**: Dark Mode | Professional Layout | Realistic HR Dataset  
-**Project Type**: Personal / Portfolio Project  
 **Skill Areas**: Data Visualization, Dashboard Design, Data Preparation, Insight Communication
+
+
+![HR_Workforce_Dashboard_Advance_Tableau](https://github.com/user-attachments/assets/12f7cbc5-60b1-49be-bc3b-0e865edadac4)
+
+![image](https://github.com/user-attachments/assets/74501859-4530-4c23-b180-3986dbae842e)
+
+![HR_Workforce_Dashboard_Shaik](https://github.com/user-attachments/assets/70b3dba6-6b12-4315-a773-fbc07e015ce6)
+
+
 
 ---
 
@@ -21,6 +24,7 @@ This HR Dashboard project was created using **Tableau** to provide **strategic i
 The project follows a **professional BI workflow**—starting from requirement gathering and mockup planning to final dashboard deployment. It integrates **15+ interactive visualizations** within a single Tableau dashboard designed with a **dark theme and a modern UI**.
 
 ---
+
 # Business Problem
 HR teams struggle with high turnover (966 terminated vs. 8,950 hired), uneven workforce distribution across departments and locations, and salary gaps by gender/education, making it hard to retain talent and plan hiring without clear patterns.
 
@@ -31,7 +35,7 @@ Provide a clear view of employee stats—hiring, terminations, demographics, sal
 
 ---
 
-## 3. Executive Summary
+# Executive Summary and Project Workflow
 
 The dashboard offers a **high-level summary and detailed breakdown** through three major sections:
 
@@ -57,21 +61,25 @@ The dashboard offers a **high-level summary and detailed breakdown** through thr
 
 The dashboard is **fully interactive**, filterable, and professionally designed to be presented to leadership.
 
----
-
 
 ---
 
-##  4. Insights Deep Dive (Revised from Tableau Dashboard)
+#  Insights Deep Dive (Revised from Tableau Dashboard)
 
-The HR dashboard presents a clear, visual breakdown of workforce dynamics across key HR metrics. Below are deep insights derived from each dashboard section:
+### key HR metrics. Below are deep insights derived from each dashboard section:
+
+- **Overview Metrics:** Active employees (7,984), hired (8,950), terminated (966); trend line shows hiring peaks and drops.  
+- **Departments Bar:** Operations tops at 2,429 active + 289 terminated; Sales next at 1,434 + 129.  
+- **Gender Pie:** Males 54%, females 46%.  
+- **Education & Age Bubbles:** Most employees 25-44; larger bubbles for bachelors/masters.  
+- **Performance Matrix:** 50% "Good" for bachelors; PhDs excel more.  
+- **Salary Bubbles by Education/Gender:** Males earn more (e.g., PhD males $93K vs. females $80K).  
+- **Age & Salary Scatter:** Higher roles like Finance Manager at $120K+; clusters around 35-50 age.  
+- **Location Map:** Bubbles in NY, MI, IL; bars for HQ/branch counts.  
+- **Details Table:** Lists employees by ID, name, role, location, salary, status, tenure (e.g., Samuel Burgess, 7 years).
+
 
 ---
-
-###  **Overview Section**
-
-* **Total Employees**: Out of 8,950 employees, 7,984 are currently active, and 966 have been terminated.
-* **Hiring & Termination Trends**: Line charts show hiring and termination fluctuations over time. Notably, hiring appears cyclical, while terminations have spiked in recent periods—signaling possible policy or organizational shifts.
 
 * **Department Distribution**:
 
