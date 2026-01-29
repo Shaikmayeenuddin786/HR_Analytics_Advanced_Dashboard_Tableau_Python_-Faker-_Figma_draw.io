@@ -1,4 +1,4 @@
-# Analytics Advanced Dashboard | Tracking attrition, diversity, Gender Pay Gap and performance to inform HR strategy
+# Analytics Dashboard (Operational BI + Leadership) | Tracking attrition, diversity, Gender Pay Gap & performance to drive HR strategy
 
 
 **Theme**: Dark Mode | Professional Layout | Realistic HR Dataset  
@@ -229,8 +229,7 @@ Click the switch icon on the top right corner to open the filter menu.
 This project demonstrates my complete end-to-end capability—from data ingestion and cleaning, through ETL pipelines, modeling, and dashboarding, 
 to actionable business insights. I architected, modeled, validated, visualized, and strategically interpreted the data throughout.
 
- This project is built upon the foundational work by **Baraa Khatib** (Data with Baraa). 
- I am grateful for the analytical tutorials
- credit:LinkedIn – Baraa Khatib](https://www.linkedin.com/in/baraa-khatib-salkini‑845b1b55/
+This project is built upon the foundational work by **Baraa Khatib** (Data with Baraa). 
+I am grateful for the analytical tutorials
 
 
