@@ -1,6 +1,27 @@
 # Analytics Dashboard (Operational BI + Leadership) | Tracking attrition, diversity, Gender Pay Gap & performance to drive HR strategy
 
 
+## **Quick Overview**
+
+| **Section** | **Details** |
+| :--- | :--- |
+| **Business Problem** | HR teams struggle with high turnover (966 terminations vs. 8,950 hires), uneven workforce distribution, and pay gaps by gender and education. They lack clear data to spot problems and plan retention strategies. |
+| **Objectives** | 1. Provide clear view of hiring, terminations, and active employees<br>2. Analyze workforce demographics (gender, age, education)<br>3. Identify salary gaps and performance patterns<br>4. Support better recruitment, retention, and diversity decisions |
+| **Technical Stack** | **Dashboard:** Tableau (Dark Theme, 15+ visualizations)<br>**Data Generation:** Python (Faker library)<br>**Design:** Figma (mockups), draw.io (layout) |
+| **Project Features** | • 3 dashboard sections: Overview, Demographics, Income Analysis<br>• Interactive filters and drill-through capabilities<br>• 15+ visualizations in a single, modern dark theme dashboard<br>• Geographic mapping of workforce distribution<br>• Performance vs. education analysis |
+| **Start-to-End Pipeline** | **Requirement Gathering** → **Data Generation (Python/Faker)** → **Data Cleaning** → **Tableau Dashboard Design** → **Mockup Planning** → **Visualization Creation** → **Dashboard Optimization** → **Insight Generation** |
+
+
+---
+
+
+## **The Big Picture**
+This project is a professional Tableau dashboard built for HR leaders. It visualizes hiring, demographics, performance, and salary data to support data-driven decisions. The dashboard features 15+ interactive visualizations in a modern dark theme, following a complete BI workflow from requirement gathering to final deployment.
+
+
+
+---
+
 **Theme**: Dark Mode | Professional Layout | Realistic HR Dataset  
 **Skill Areas**: Data Visualization, Dashboard Design, Data Preparation, Insight Communication
 
@@ -12,16 +33,6 @@
 ![HR_Workforce_Dashboard_Shaik](https://github.com/user-attachments/assets/70b3dba6-6b12-4315-a773-fbc07e015ce6)
 
 
-
----
-
-
-# Project Overview
-
-
-This HR Dashboard project was created using **Tableau** to provide **strategic insights** into workforce data. The goal was to support HR leaders in **making data-driven decisions** by visualizing key aspects such as hiring trends, demographics, performance, and salary analysis. It simulates a **real-life enterprise setting** with end-to-end development including user requirement analysis, data modeling, advanced charting, and dashboard optimization.
-
-The project follows a **professional BI workflow**—starting from requirement gathering and mockup planning to final dashboard deployment. It integrates **15+ interactive visualizations** within a single Tableau dashboard designed with a **dark theme and a modern UI**.
 
 ---
 
