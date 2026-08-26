@@ -1,7 +1,7 @@
 # Analytics Dashboard (Operational BI + Leadership) | Tracking attrition, diversity, Gender Pay Gap & performance to drive HR strategy
 
 
-## **Quick Overview**
+# **Quick Overview**
 
 | **Section** | **Details** |
 | :--- | :--- |
@@ -231,16 +231,16 @@ Click the switch icon on the top right corner to open the filter menu.
 ---
 
 
-##  Author & Acknowledgment
+## 👤 Author & Acknowledgment
  Shaik Mayeenuddin
- Data Science & AI/ML Professional | Data & Process Optimization
+ Data Science & AI/ML Specialization | Data & Process Optimization Consultant |
  Pursuing a Master’s in Data Science (AI & ML) Student
 🔗 https://www.linkedin.com/in/shaikmayeenuddin
 
 This project demonstrates my complete end-to-end capability—from data ingestion and cleaning, through ETL pipelines, modeling, and dashboarding, 
 to actionable business insights. I architected, modeled, validated, visualized, and strategically interpreted the data throughout.
 
-This project is built upon the foundational work by **Baraa Khatib** (Data with Baraa). 
+This project is built upon the foundational work by **Baraa Khatib** 
 I am grateful for the analytical tutorials
 
 
