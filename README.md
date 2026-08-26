@@ -1,5 +1,5 @@
-# Analytics Dashboard (Operational BI + Leadership) | Tracking attrition, diversity, Gender Pay Gap & performance to drive HR strategy
-
+# Analytics Dashboard (Operational Business Intelligence + Leadership) | Tracking attrition, diversity, Gender Pay Gap & performance to drive HR strategy
+---
 
 # **Quick Overview**
 
