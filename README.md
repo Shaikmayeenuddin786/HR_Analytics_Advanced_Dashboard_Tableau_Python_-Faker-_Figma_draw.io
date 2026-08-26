@@ -1,4 +1,9 @@
-# Analytics Dashboard (Operational Business Intelligence + Leadership) | Tracking attrition, diversity, Gender Pay Gap & performance to drive HR strategy
+# **Human Resources & Workforce Analytics**  
+### **Workforce Intelligence Dashboard (Operational BI + Leadership) | Tracking Attrition, Diversity, Pay Equity & Performance | Top Strategic Recommendations to HR Manager/Director and Chief People Officer (CPO)**
+
+<img width="1000" height="578" alt="image" src="https://github.com/user-attachments/assets/6be1bec2-8a11-4fb4-9ed5-3e1460c993ed" />
+
+
 ---
 
 # **Quick Overview**
@@ -231,11 +236,15 @@ Click the switch icon on the top right corner to open the filter menu.
 ---
 
 
-## 👤 Author & Acknowledgment
- Shaik Mayeenuddin
- Data Science & AI/ML Specialization | Data & Process Optimization Consultant |
- Pursuing a Master’s in Data Science (AI & ML) Student
-🔗 https://www.linkedin.com/in/shaikmayeenuddin
+# 👤 **Author**
+
+### **Shaik Mayeenuddin**
+
+#### Business Analyst | Data Analytics & AI/ML | Optimizing Processes to Drive Revenue & Retention
+
+🔗https://www.linkedin.com/in/shaikmayeenuddin
+
+---
 
 This project demonstrates my complete end-to-end capability—from data ingestion and cleaning, through ETL pipelines, modeling, and dashboarding, 
 to actionable business insights. I architected, modeled, validated, visualized, and strategically interpreted the data throughout.
