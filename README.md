@@ -23,6 +23,27 @@
 ## **The Big Picture**
 This project is a professional Tableau dashboard built for HR leaders. It visualizes hiring, demographics, performance, and salary data to support data-driven decisions. The dashboard features 15+ interactive visualizations in a modern dark theme, following a complete BI workflow from requirement gathering to final deployment.
 
+The dashboard offers a **high-level summary**,**fully interactive**, **filterable**, **professionally designed** and **detailed breakdown** through three major sections:
+
+1. **Overview**
+
+   * Total hires, active employees, and terminations
+   * Trends in hiring and attrition over years
+   * Headcount by department and branch vs HQ distribution
+   * Geographic representation via interactive maps
+
+2. **Demographics**
+
+   * Gender distribution
+   * Age group vs education correlation
+   * Employee count by age and education levels
+   * Performance vs education analysis
+
+3. **Income Analysis**
+
+   * Salary comparisons by gender and education
+   * Age vs salary scatter plot by department
+   * Gap analysis visualized through parabola and scatter charts
 
 
 ---
@@ -49,40 +70,37 @@ HR teams struggle with high turnover (966 terminated vs. 8,950 hired), uneven wo
 Provide a clear view of employee stats—hiring, terminations, demographics, salaries, and performance—to spot trends, address imbalances, and support better recruitment, retention, and diversity efforts.
 
 
----
+# Data Structure Overview
 
-# Executive Summary and Project Workflow
+The dataset used was synthetically generated using Python’s Faker library to simulate realistic HR records. It consists of a **single CSV file** with fields including:
 
-The dashboard offers a **high-level summary and detailed breakdown** through three major sections:
+* **Employee Details**: ID, Name, Gender, Education, Department, Job Title
+* **Employment History**: Hire Date, Termination Date
+* **Location**: State, City (with HQ marked as New York)
+* **Salary & Performance**: Monthly salary, Performance rating
+* **Derived Fields**: Age, Age Groups, Location Type (HQ vs Branch), Status (Active vs Terminated)
 
-1. **Overview**
+These fields were cleaned, categorized (dimensions/measures), and formatted appropriately in Tableau to support advanced analysis.
 
-   * Total hires, active employees, and terminations
-   * Trends in hiring and attrition over years
-   * Headcount by department and branch vs HQ distribution
-   * Geographic representation via interactive maps
+Hover over the chart to see more information.
+Click on the chart to filter the entire dashboard.
+Click the switch icon on the top right corner to open the filter menu.
 
-2. **Demographics**
+# Tools & Technologies
 
-   * Gender distribution
-   * Age group vs education correlation
-   * Employee count by age and education levels
-   * Performance vs education analysis
+| Tool      | Purpose                                |
+|-----------|----------------------------------------|
+| **Tableau** | Data visualization and dashboarding    |
+| **Python (Faker)** | Synthetic HR data generation         |
+| **Figma**   | Dashboard layout design (mockups)     |
+| **draw.io** | Container and layout planning          |
 
-3. **Income Analysis**
-
-   * Salary comparisons by gender and education
-   * Age vs salary scatter plot by department
-   * Gap analysis visualized through parabola and scatter charts
-
-The dashboard is **fully interactive**, filterable, and professionally designed to be presented to leadership.
 
 
 ---
-
 # Insights Deep Dive
 
-## This deep dive equips HR and leadership teams with actionable insights derived from real data patterns to drive strategic interventions in talent retention, pay equity, and performance alignment.
+#### This deep dive equips HR and leadership teams with actionable insights derived from real data patterns to drive strategic interventions in talent retention, pay equity, and performance alignment.
 
 - **Overview Metrics:** Active employees (7,984), hired (8,950), terminated (966); trend line shows hiring peaks and drops.  
 - **Departments Bar:** Operations tops at 2,429 active + 289 terminated; Sales next at 1,434 + 129.  
@@ -130,6 +148,7 @@ The dashboard is **fully interactive**, filterable, and professionally designed 
   * **PhD holders** dominate the **'Excellent'** rating category.
   * **Bachelor’s degree** holders show the highest concentration in the **‘Good’** performance category (50%).
   * **High school graduates** are more likely to fall into **‘Needs Improvement’**—a flag for potential training needs.
+    
     ![image](https://github.com/user-attachments/assets/c3a7defe-c777-4de4-aac0-516ed234d813)
     
     ![image](https://github.com/user-attachments/assets/c31f483d-cac8-43ee-a0c2-ec32c6375016)
@@ -148,11 +167,12 @@ The dashboard is **fully interactive**, filterable, and professionally designed 
   * **Finance Managers** and **IT Managers** earn the highest salaries and are generally older.
   * **HR Managers**, despite being younger, command relatively high salaries—an anomaly suggesting specialized skill or strategic importance.
   * Roles like **HR Assistant** and **Sales Specialist** cluster at lower salary bands, aligned with expectations.
+    
   ![image](https://github.com/user-attachments/assets/492d88d8-5359-4bef-b15f-b3e7b8d9e6cb)
 
 
 ---
-# Offered Recommended Solutions to HR Manager / HR Director and Chief People Officer (CPO)
+# Top Strategic Recommendations to HR Manager/Director and Chief People Officer (CPO)
 
 
 ### 1. **Insight Summary: Strengthen Workforce Retention**
@@ -165,8 +185,6 @@ The dashboard is **fully interactive**, filterable, and professionally designed 
   - Implement **structured exit interviews** to identify root causes (e.g., lack of growth, workload imbalance, culture mismatch)
   - Re-evaluate **compensation, benefits, training, and team structures** in high-churn departments
   - Consider **mentorship programs** or **career pathing initiatives** to improve retention
-
----
 
 ### 2. **Improve Gender Pay Equity**
 
@@ -203,38 +221,6 @@ The dashboard is **fully interactive**, filterable, and professionally designed 
 
 
 ---
-
-
-# Data Structure Overview | Tools & Technologies
-
-The dataset used was synthetically generated using Python’s Faker library to simulate realistic HR records. It consists of a **single CSV file** with fields including:
-
-* **Employee Details**: ID, Name, Gender, Education, Department, Job Title
-* **Employment History**: Hire Date, Termination Date
-* **Location**: State, City (with HQ marked as New York)
-* **Salary & Performance**: Monthly salary, Performance rating
-* **Derived Fields**: Age, Age Groups, Location Type (HQ vs Branch), Status (Active vs Terminated)
-
-These fields were cleaned, categorized (dimensions/measures), and formatted appropriately in Tableau to support advanced analysis.
-
-
-Hover over the chart to see more information.
-Click on the chart to filter the entire dashboard.
-Click the switch icon on the top right corner to open the filter menu.
-
-
-##  Tools & Technologies
-
-| Tool      | Purpose                                |
-|-----------|----------------------------------------|
-| **Tableau** | Data visualization and dashboarding    |
-| **Python (Faker)** | Synthetic HR data generation         |
-| **Figma**   | Dashboard layout design (mockups)     |
-| **draw.io** | Container and layout planning          |
-
-
----
-
 
 # 👤 **Author**
 
