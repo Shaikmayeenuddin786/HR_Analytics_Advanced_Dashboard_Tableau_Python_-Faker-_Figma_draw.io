@@ -159,16 +159,27 @@ Click the switch icon on the top right corner to open the filter menu.
 * **Gender Pay Gap by Education**:
 
   * At the **Bachelor level**, males earn **74K** while females earn **66K**, indicating a pay gap.
+    <img width="674" height="312" alt="image" src="https://github.com/user-attachments/assets/98a19ce5-2424-4d88-a054-7c1889a0a654" />
+    <img width="433" height="196" alt="image" src="https://github.com/user-attachments/assets/933422bd-3dc1-4bba-abf6-b846532a869a" />
+
+
   * Conversely, at the **PhD level**, females earn more (93K vs 80K), a reverse trend worth deeper exploration.
+    <img width="689" height="322" alt="image" src="https://github.com/user-attachments/assets/daeebb09-efe7-4eaf-843d-96b4d13aeb4f" />
+    <img width="433" height="334" alt="image" src="https://github.com/user-attachments/assets/6a66eb94-5fc7-44c4-99df-fae3722efa5c" />
+
   * Salary increases progressively with education level across both genders.
    
 * **Age vs Salary (Scatter Plot)**:
 
   * **Finance Managers** and **IT Managers** earn the highest salaries and are generally older.
   * **HR Managers**, despite being younger, command relatively high salaries—an anomaly suggesting specialized skill or strategic importance.
+    <img width="912" height="715" alt="image" src="https://github.com/user-attachments/assets/ffa3cd04-956d-4d9c-8a1c-087323b2a1c0" />
+
   * Roles like **HR Assistant** and **Sales Specialist** cluster at lower salary bands, aligned with expectations.
     
-  ![image](https://github.com/user-attachments/assets/492d88d8-5359-4bef-b15f-b3e7b8d9e6cb)
+  <img width="692" height="309" alt="image" src="https://github.com/user-attachments/assets/1f84911d-58c9-4cd1-848a-ddca15cabe1e" />
+  <img width="717" height="312" alt="image" src="https://github.com/user-attachments/assets/354da52b-27e3-45bf-b513-d4f6b3337631" />
+
 
 
 ---
@@ -178,46 +189,63 @@ Click the switch icon on the top right corner to open the filter menu.
 ### 1. **Insight Summary: Strengthen Workforce Retention**
 
 - **Observation**: Departments like **Operations** and **Sales** show **high attrition** relative to others, as indicated by termination volumes in the bar chart.
-- **Implication**: Sustained attrition in these business-critical areas could impact delivery timelines, customer experience, and institutional knowledge.
+    -  **Implication**: Sustained attrition in these business-critical areas could impact delivery timelines, customer experience, and institutional knowledge.
+      <img width="838" height="297" alt="image" src="https://github.com/user-attachments/assets/3be0dfa9-6704-4ae1-b67e-4fd16d60a60d" />
+
 
 - **Suggested Actions**:
   - Conduct **regular pulse surveys** to gauge engagement and burnout risk
   - Implement **structured exit interviews** to identify root causes (e.g., lack of growth, workload imbalance, culture mismatch)
   - Re-evaluate **compensation, benefits, training, and team structures** in high-churn departments
-  - Consider **mentorship programs** or **career pathing initiatives** to improve retention
+  - Consider **mentorship programs** or **career path initiatives** to improve retention
 
 ### 2. **Improve Gender Pay Equity**
 
 * The **Education & Gender** chart reveals a **gender-based pay gap** at the Bachelor's level (Male avg: 74K vs Female: 66K).
-* Conduct a compensation audit to address discrepancies and ensure equitable salary bands across all levels.
+    - Conduct a compensation audit to address discrepancies and ensure equitable salary bands across all levels.
+      <img width="1117" height="336" alt="image" src="https://github.com/user-attachments/assets/7dc3dcf8-0b0a-447d-880b-cf2a8235340b" />
+      <img width="482" height="717" alt="image" src="https://github.com/user-attachments/assets/19904c4a-1d7e-4e8d-9315-ba5df2fa5d85" />
 
-  ![image](https://github.com/user-attachments/assets/64998d31-7a2e-45ea-8d0b-aa3b77769cf3)
 
 
 ### 3. **Capitalize on HQ Talent Strength**
 
 * With **70% of employees located at HQ (New York)**, the talent pool is centralized.
-* Consider **talent decentralization** or **hybrid staffing models** to expand reach and reduce HQ saturation risks.
+    - Consider **talent decentralization** or **hybrid staffing models** to expand reach and reduce HQ saturation risks.
+      <img width="390" height="714" alt="image" src="https://github.com/user-attachments/assets/46100623-45da-4ed1-805a-9f2964adab13" />
+
 
 ### 4. **Targeted Upskilling Based on Performance**
 
 * The **Education & Performance** heatmap shows employees with **lower education levels** (e.g., High School) are more likely to fall into **‘Needs Improvement’** ratings.
-* Implement **role-specific learning paths** to upskill this segment and boost overall performance.
+    - Implement **role-specific learning paths** to upskill this segment and boost overall performance.
+      <img width="1111" height="731" alt="image" src="https://github.com/user-attachments/assets/b08119dc-f3df-4530-a88d-661c236d2fd7" />
+
 
 ### 5. **Recognize High-Performing Segments**
 
 * **PhD holders** show high performance and draw higher salaries—particularly female employees.
-* Invest in **leadership development** for this high-performing segment to retain and promote them.
+    - Invest in **leadership development** for this high-performing segment to retain and promote them.
+      <img width="857" height="401" alt="image" src="https://github.com/user-attachments/assets/c2c4d98a-d35f-4a8e-a7e1-8adf59f35a44" />
+      <img width="861" height="347" alt="image" src="https://github.com/user-attachments/assets/ab24f15b-c51f-4179-b925-56e77ddb717d" />
+
+
 
 ### 6. **Align Compensation with Role and Age Trends**
 
 * The **Age vs Salary** scatter plot shows some younger employees (e.g., HR Managers) drawing higher salaries.
-* Review compensation benchmarking to ensure it aligns with both **role seniority** and **market expectations**.
+    - Review compensation benchmarking to ensure it aligns with both **role seniority** and **market expectations**.
+    <img width="580" height="345" alt="image" src="https://github.com/user-attachments/assets/aa4c5768-2241-4215-8830-98c4a9143411" />
+
 
 ### 7. **Departmental Capacity Planning**
 
 * **Operations, Sales, and Customer Service** have the largest employee volumes.
-* HR should evaluate whether staffing levels match business needs and redistribute where inefficiencies are identified.
+    - HR should evaluate whether staffing levels match business needs and redistribute where inefficiencies are identified.
+    
+    <img width="391" height="212" alt="image" src="https://github.com/user-attachments/assets/4dbeb9d6-def9-438a-b2fa-f253577af535" />
+
+
 
 
 ---
